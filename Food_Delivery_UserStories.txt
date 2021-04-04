@@ -1,28 +1,28 @@
-- As an Guest, I can Sign up by email/password, Facebook, Gmail
-- As an User, I can Log in by email/passowrd, Facebook, Gmail
-- As an User, I can Log out
-- As an User, I can enter email and recived an email link to reset password when I forgot the password
-- As an User, I can view all my orders on history, can filter by date range, all result can be sort by date, order amount, default sort by date desc
-- As an User, I can view order detail, and re-order this order
-- As an User, I can create/edit my profile with information (name, phone#,logo,address)
-- As an User, I can add/edit/remove payment methods (Credit Card, Paypal...). All those information MUST BE Encryption.
-- As an User, I can setup the theme of app (Dark/Light), font size of text, turn on/off receive notification of app
-- As an User, I can send email to support or view the common questions/answers relate to this app
-- As an User, I can view all restaurants
-- As an User, I can mark a restaurant as favourite restaurant 
-- As an User, I can view favourite restaurants list 
-- As an User, I can remove a restaurant from restaurants list
-- As an User, I can search a restaurant by name, phone#, tag
-- As an User, I can view all review of a restaurant, filter by rate
-- As an User, I can view detail a restaurant, view all categories and food
-- As an User, I can add food to cart, remove food from cart, adjust quantity item from cart
-- As an User, I can check out my Cart, view current order detail: foods list, subtotal, tax, delivery fee, estimate time
-- As an User, I can choose my payment methods (Credit Card, Paypal..) to pay the order
-- As an User, I can Cancel Order if the order have stat
-- As an User, I can view real time status of my order, the current location of my order
-- As an User, I can add tip to the driver/restaurant
-- As an User, I can rate to the order
-- As an User, I can cancel the order and be charged the cancelation fee
+- As a Guest, I can Sign up by email/password, Facebook, Gmail
+- As a Guest, I can Log in by email/passowrd, Facebook, Gmail
+- As a Guest, I can enter email and recived an email link to reset password when I forgot the password
+- As a User, I can view all my orders on history, can filter by date range, all result can be sort by date, order amount, default sort by date desc
+- As a User, I can Log out
+- As a User, I can view order detail, and re-order this order
+- As a User, I can create/edit my profile with information (name, phone#,logo,address)
+- As a User, I can add/edit/remove payment methods (Credit Card, Paypal...). All those information MUST BE Encryption.
+- As a User, I can setup the theme of app (Dark/Light), font size of text, turn on/off receive notification of app
+- As a User, I can send email to support or view the common questions/answers relate to this app
+- As a User, I can view all restaurants
+- As a User, I can mark a restaurant as favourite restaurant 
+- As a User, I can view favourite restaurants list 
+- As a User, I can remove a restaurant from restaurants list
+- As a User, I can search a restaurant by name, phone#, tag
+- As a User, I can view all review of a restaurant, filter by rate
+- As a User, I can view detail a restaurant, view all categories and food
+- As a User, I can add food to cart, remove food from cart, adjust quantity item from cart
+- As a User, I can check out my Cart, view current order detail: foods list, subtotal, tax, delivery fee, estimate time
+- As a User, I can choose my payment methods (Credit Card, Paypal..) to pay the order
+- As a User, I can Cancel Order if the order have stat
+- As a User, I can view real time status of my order, the current location of my order
+- As a User, I can add tip to the driver/restaurant
+- As a User, I can rate to the order
+- As a User, I can cancel the order and be charged the cancelation fee
 - As a Owner, I can setup Restaurant Information: Name, logo, images, phone#, address, tags
 - As a Owner, I can create manage the categories/foods by (name, image, price, discount,tax ......)
 - As a Owner, I can view report best sold categories/foods by day/week/month
